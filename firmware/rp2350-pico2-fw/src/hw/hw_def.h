@@ -6,7 +6,7 @@
 
 
 #define _DEF_FIRMWATRE_VERSION    "V240921R1"
-#define _DEF_BOARD_NAME           "RP2350-PICO-FW"
+#define _DEF_BOARD_NAME           "RP2350-PICO2-FW"
 
 
 
